@@ -34,20 +34,24 @@ Aqui estará a parte do Mobile da plataforma
 </ul>
 </pre>
 
-## Tela Inicial
+## Lista Jogos
 
 <div align="center" width="100%">
-<img  width="100%" height="100%" src="https://user-images.githubusercontent.com/68366424/200699045-46ce7c9e-520e-49bf-a185-23b423f685d5.png" alt="Tela Inicial">
+<img  width="200px" height="400px" src="https://user-images.githubusercontent.com/68366424/200701107-dfa54d17-f5ed-4174-b0fd-3454535d25d9.jpg" alt="Tela Inicial">
 </div>
 
-## Cadastro dos Anúncios
+## Lista Anúncios
 
 <div align="center" width="100%">
-<img  width="100%" height="100%" src="https://user-images.githubusercontent.com/68366424/200699055-55979e81-efd2-47f1-9fb9-cc05c78dc1f2.png" alt="Cadastro dos Anúncios">
+<img  width="200px" height="400px" src="https://user-images.githubusercontent.com/68366424/200701188-9c63296c-e88d-454b-9a75-8cdad9086147.jpg" alt="Lista Anúncios">
 </div>
 
 
+## Conectando com o Duo
 
+<div align="center" width="100%">
+<img  width="200px" height="400px" src="https://user-images.githubusercontent.com/68366424/200701310-d0783cd9-2744-424a-b98e-c09e1081261e.jpg" alt="Conectando Com o Duo">
+</div>
 
 
 
